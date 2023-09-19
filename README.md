@@ -17,10 +17,10 @@ This project is owned by the Environmental Fluid Mechanical Lab at Columbia Univ
 - A Python class, `Tree`, is defined to organize overlapping LiDAR points and their corresponding tree crowns. It holds the tree identifier and the associated LiDAR points.
 
 ### 2. Data Import
-• LiDAR metrics and tree crown data are imported for analysis. Voxel metrics data and tree crown shapefiles are loaded to facilitate the subsequent processing.
+- LiDAR metrics and tree crown data are imported for analysis. Voxel metrics data and tree crown shapefiles are loaded to facilitate the subsequent processing.
 
 ### 3. LiDAR Points Clipping
-• LiDAR points falling within the collective tree top area are clipped. This step ensures that subsequent analysis is focused on relevant data for each tree.
+- LiDAR points falling within the collective tree top area are clipped. This step ensures that subsequent analysis is focused on relevant data for each tree.
 
 ### 4. Traditional Clipping Approach
 • This part of the code iterates through the trees, clipping LiDAR points for each tree based on its geometry. Leaf Area Index (LAI) calculations are performed, providing insights into foliage density.
