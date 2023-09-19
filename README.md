@@ -3,8 +3,12 @@
 This project focuses on utilizing LiDAR data, acquired through aerial scans over New York City, to construct a detailed 3D representation of trees. A key aspect involves evaluating LiDAR's efficacy in calculating Leaf Area Index (LAI), a crucial metric for foliage density, giving us insights into ecosystem health. Comparative analysis demonstrated that LiDAR proves as effective as traditional methods, such as field measurements and point quadrant analysis, in accurately determining LAI. In this study, I focused on optimizing the computation speed for calculating intersections between Lidar points and their corresponding tree canopies. Specifically, Python compile time was improved from an exponential progression to a much more efficient linear one, reducing the time complexity from O(n^2) to O(n). This improvement was achieved by implementing three different approaches, utilizing GeoPandas, Dask for parallel and distributed processing, and recursion within Jupyter Lab.
 
 
-## Note About Project
-Please be advised that this project is an ongoing, confidential research endeavor expected to be finalized and potentially published within the coming year. Due to its nature, the project and associated paper contain confidential information, and it's currently not feasible to disclose the entire project or paper. However, I am able to share the code I have worked on. Rest assured, updates regarding this project will be shared within this GitHub repository once the research reaches its completion.
+## Note About Project Ownership and Contribution
+This project is owned by the Environmental Fluid Mechanical Lab at Columbia University, and I am actively contributing to it. Please be advised that this project is an ongoing, confidential research endeavor expected to be finalized and potentially published within the coming year. Due to its nature, the project and associated paper contain confidential information, and it's currently not feasible to disclose the entire project or paper. However, **I am able to share the code I have worked on as a contributor**. Rest assured, updates regarding this project will be shared within this GitHub repository once the research reaches its completion.
+
+
+## Collaboration with Environmental Fluid Mechanical Lab, Columbia University
+This project is a collaborative effort, and **I am contributing to the project alongside the Environmental Fluid Mechanical Lab at Columbia University**.
 
 
 ## References
