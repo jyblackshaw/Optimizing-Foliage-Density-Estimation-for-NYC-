@@ -12,27 +12,34 @@ This project is owned by the Environmental Fluid Mechanical Lab at Columbia Univ
 
 
 ## Project Breakdown
-  ### 1. Tree Representation Class
-  A Python class, `Tree`, is defined to organize overlapping LiDAR points and their corresponding tree crowns. It holds the tree identifier and the associated LiDAR points.
 
-  ### 2. Data Import
-  LiDAR metrics and tree crown data are imported for analysis. Voxel metrics data and tree crown shapefiles are loaded to facilitate the subsequent processing.
+### 1. Tree Representation Class
 
-  ### 3. LiDAR Points Clipping
-  LiDAR points falling within the collective tree top area are clipped. This step ensures that subsequent analysis is focused on relevant data for each tree.
+   A Python class, `Tree`, is defined to organize overlapping LiDAR points and their corresponding tree crowns. It holds the tree identifier and the associated LiDAR points.
 
-  ### 4. Traditional Clipping Approach
-  This part of the code iterates through the trees, clipping LiDAR points for each tree based on its geometry. Leaf Area Index (LAI) calculations are performed, providing insights into foliage density.
+### 2. Data Import
 
-  ### 5. Recursive Clipping Strategy
-  A recursive approach is implemented to compute clipped geometries for each tree. This method effectively filters and clips LiDAR points for each tree geometry.
+   LiDAR metrics and tree crown data are imported for analysis. Voxel metrics data and tree crown shapefiles are loaded to facilitate the subsequent processing.
 
-  ### 6. Dask Parallel Clipping Implementation
-  A parallel clipping process is implemented using Dask for efficient computation. It significantly enhances the speed of clipping LiDAR points against tree geometries.
+### 3. LiDAR Points Clipping
 
-  ### 7. Random Tree Visualization
-  A visualization component is included, allowing the random selection and plotting of a tree from the clipped trees.
+   LiDAR points falling within the collective tree top area are clipped. This step ensures that subsequent analysis is focused on relevant data for each tree.
 
+### 4. Traditional Clipping Approach
+
+   This part of the code iterates through the trees, clipping LiDAR points for each tree based on its geometry. Leaf Area Index (LAI) calculations are performed, providing insights into foliage density.
+
+### 5. Recursive Clipping Strategy
+
+   A recursive approach is implemented to compute clipped geometries for each tree. This method effectively filters and clips LiDAR points for each tree geometry.
+
+### 6. Dask Parallel Clipping Implementation
+
+   A parallel clipping process is implemented using Dask for efficient computation. It significantly enhances the speed of clipping LiDAR points against tree geometries.
+
+### 7. Random Tree Visualization
+
+   A visualization component is included, allowing the random selection and plotting of a tree from the clipped trees.
 
 
 ## Usage
