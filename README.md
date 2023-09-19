@@ -8,7 +8,7 @@ This project is owned by the Environmental Fluid Mechanical Lab at Columbia Univ
 
 
 ## References
-• [Optimizing Foliage Density Estimation for NYC](https://link.springer.com/article/10.1007/s00468-006-0119-6)
+[Optimizing Foliage Density Estimation for NYC](https://link.springer.com/article/10.1007/s00468-006-0119-6)
 
 
 ## Project Breakdown
