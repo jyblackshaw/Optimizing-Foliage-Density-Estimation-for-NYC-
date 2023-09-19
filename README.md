@@ -50,11 +50,8 @@ Contributions to this project are currently restricted due to the ongoing and co
 - [Optimizing Foliage Density Estimation for NYC](https://link.springer.com/article/10.1007/s00468-006-0119-6)
 
 
-<img width="890" alt="Screenshot 2023-09-18 at 8 15 14 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/afc0ad60-e453-48f4-8edd-78894df95f92">
+<img width="890" alt="Screenshot 2023-09-18 at 8 21 39 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/827d2bf1-13a2-4f5c-95b1-fc736e3c730a">
 
 <img width="890" alt="Screenshot 2023-09-18 at 8 20 02 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/1f859ee3-ccd5-4085-add6-2438b7bfca26">
 
-<img width="890" alt="Screenshot 2023-09-18 at 8 21 39 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/827d2bf1-13a2-4f5c-95b1-fc736e3c730a">
-
-
-
+<img width="890" alt="Screenshot 2023-09-18 at 8 15 14 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/afc0ad60-e453-48f4-8edd-78894df95f92">
