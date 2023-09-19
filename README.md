@@ -23,16 +23,16 @@ This project is owned by the Environmental Fluid Mechanical Lab at Columbia Univ
 - LiDAR points falling within the collective tree top area are clipped. This step ensures that subsequent analysis is focused on relevant data for each tree.
 
 ### 4. Traditional Clipping Approach
-• This part of the code iterates through the trees, clipping LiDAR points for each tree based on its geometry. Leaf Area Index (LAI) calculations are performed, providing insights into foliage density.
+- This part of the code iterates through the trees, clipping LiDAR points for each tree based on its geometry. Leaf Area Index (LAI) calculations are performed, providing insights into foliage density.
 
 ### 5. Recursive Clipping Strategy
-• A recursive approach is implemented to compute clipped geometries for each tree. This method effectively filters and clips LiDAR points for each tree geometry.
+- A recursive approach is implemented to compute clipped geometries for each tree. This method effectively filters and clips LiDAR points for each tree geometry.
 
 ### 6. Dask Parallel Clipping Implementation
-• A parallel clipping process is implemented using Dask for efficient computation. It significantly enhances the speed of clipping LiDAR points against tree geometries.
+- A parallel clipping process is implemented using Dask for efficient computation. It significantly enhances the speed of clipping LiDAR points against tree geometries.
 
 ### 7. Random Tree Visualization
-• A visualization component is included, allowing the random selection and plotting of a tree from the clipped trees.
+- A visualization component is included, allowing the random selection and plotting of a tree from the clipped trees.
 
 
 
