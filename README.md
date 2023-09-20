@@ -38,6 +38,8 @@ This project is owned by the Environmental Fluid Mechanical Lab at Columbia Univ
 
 <img width="890" alt="Screenshot 2023-09-18 at 8 21 39 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/827d2bf1-13a2-4f5c-95b1-fc736e3c730a">
 
+<img width="890" alt="Screenshot 2023-09-20 at 3 31 17 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/6a706127-61ba-47ab-a3f0-ec6eacabb09c">
+
 <img width="890" alt="Screenshot 2023-09-18 at 8 20 02 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/1f859ee3-ccd5-4085-add6-2438b7bfca26">
 
 <img width="890" alt="Screenshot 2023-09-18 at 8 20 48 pm" src="https://github.com/jyblackshaw/Optimizing-Foliage-Density-Estimation-for-NYC-/assets/68715353/c9e3a65b-462f-40e9-9c34-069ce4c50476">
